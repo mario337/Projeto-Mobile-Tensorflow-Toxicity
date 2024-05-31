@@ -2,7 +2,7 @@
 # Nomes:
 - Mario Andrade Neto
 - Henrique Correia Zacari
-- Enzo Corbanzzi
+- Enzo Corbanezzi
 - Eduardo Pereira 
 - Guilherme Godinho
 - Haroldo Kimura
